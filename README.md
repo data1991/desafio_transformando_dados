@@ -5,7 +5,9 @@ Desafio de Projeto - Processando e Transformando Dados com Power BI
 
 Visite o relatório [Relatório Bussiness Report](https://app.powerbi.com/groups/me/reports/21b2f78a-5cb5-4d57-8bf4-04e1aa941c67/ReportSectiondb6b71f3c6e89b3434e2?experience=power-bi)
 
-QR Code do Relatório
+### QR Code do Relatório
+
+![Relatório Business Report](https://github.com/data1991/desafio_transformando_dados/assets/144493849/46ea1fde-bc81-4eda-a36d-e46803eb9643)
 
 
 
@@ -48,6 +50,12 @@ Processar os Dados de um arquivo .csv fornecido, transformá-los com Power BI e 
   #### Página02 Relatório
 
   ![Página02](https://github.com/data1991/desafio_transformando_dados/assets/144493849/03ff4292-2551-4833-a3e0-dfc2ca8df5a7)
+
+  # Dicas muito importantes
+
+-> Planeje antes de fazer
+-> Não saia fazendo as coisas sem antes entender o contexto
+-> Se tiver dúvidas, recorra as pessoas que já concluíram o desafio, pesquise no site da Microsoft Power BI, artigos, tópicos e peça ajuda ao ChatGPT(caso tenha conhecimento).
 
   
 
