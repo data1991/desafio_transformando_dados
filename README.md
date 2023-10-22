@@ -53,9 +53,9 @@ Processar os Dados de um arquivo .csv fornecido, transformá-los com Power BI e 
 
   # Dicas muito importantes
 
--> Planeje antes de fazer
--> Não saia fazendo as coisas sem antes entender o contexto
--> Se tiver dúvidas, recorra as pessoas que já concluíram o desafio, pesquise no site da Microsoft Power BI, artigos, tópicos e peça ajuda ao ChatGPT(caso tenha conhecimento).
+1. Planeje antes de fazer
+2. Não saia fazendo as coisas sem antes entender o contexto
+3. Se tiver dúvidas, recorra as pessoas que já concluíram o desafio, pesquise no site da Microsoft Power BI, artigos, tópicos e peça ajuda ao ChatGPT(caso tenha conhecimento).
 
   
 
