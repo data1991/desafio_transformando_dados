@@ -1,6 +1,10 @@
 # <img src="https://avatars1.githubusercontent.com/u/26231823?s=280&v=4" width="80" height="80"> Processando e Transformando Dados com Power BI
 Desafio de Projeto - Processando e Transformando Dados com Power BI
 
+## Link do Relatório
+
+Visite o relatório [Relatório Bussiness Report](https://app.powerbi.com/groups/me/reports/21b2f78a-5cb5-4d57-8bf4-04e1aa941c67/ReportSectiondb6b71f3c6e89b3434e2?experience=power-bi)
+
 # Objetivo do Projeto:
 Processar os Dados de um arquivo .csv fornecido, transformá-los com Power BI e criar um relatório empresarial para saber se não houve problemas com os dados.
 
