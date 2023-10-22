@@ -30,6 +30,9 @@ Processar os Dados de um arquivo .csv fornecido, transformá-los com Power BI e 
    9. Segue os prints do projeto para vocês terem uma noção:
 
    ![print01](https://github.com/data1991/desafio_transformando_dados/assets/144493849/6ccf52a3-4615-418c-b041-520b1c7f2d71)
+   ![Print02](https://github.com/data1991/desafio_transformando_dados/assets/144493849/1436d61c-2685-499c-85c1-a8a20e4886b5)
+   
+   
    
 
    
